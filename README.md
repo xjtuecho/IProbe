@@ -82,6 +82,4 @@ IProbe还是一款不错的正负12V电源，正负电源驱动能力相同，�
 
 ## 购买链接
 
-[IProbe](https://item.taobao.com/item.htm?id=564318225740)
-
 [霍尔效应]: https://en.wikipedia.org/wiki/Hall_effect
